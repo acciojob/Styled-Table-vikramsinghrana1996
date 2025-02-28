@@ -1,1 +1,9 @@
 /* your code */
+table,th,td{
+	border:1px solid black;
+	borde color:black;
+}
+th{
+	background-color:purple;
+	color:white;
+}
